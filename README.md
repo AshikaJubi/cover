@@ -134,8 +134,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](image.png)
+![image](https://github.com/AshikaJubi/cover/assets/129098066/6bcd6df8-eeb9-492e-afb7-a0a7d2b5f175)
 
-![Alt text](image-1.png)
+![image-1](https://github.com/AshikaJubi/cover/assets/129098066/d9d10c89-d624-441c-b1f5-a08b32afda2d)
+
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
